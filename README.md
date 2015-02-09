@@ -1,4 +1,4 @@
 putenv-knife-vsphere
 ==============
 
-knife-vSphere provider for putenv virtualization provisioner
+knife-vsphere provider for putenv virtualization provisioner
